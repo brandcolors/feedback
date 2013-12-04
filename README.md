@@ -7,5 +7,3 @@ If for whatever reason you wish to contact me privately or have no idea how to c
 Thanks.
 
 — Galen
-
-[@galengidman](http://twitter.com/galengidman)
