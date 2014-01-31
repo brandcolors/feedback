@@ -2,4 +2,6 @@ This is the place to suggest color additions or updates, report bugs, or pitch i
 
 If you'd rather contact me privately or you have no idea how GitHub issues work, you can email me: <galen@galengidman.com>
 
-[@brandcolorsnet](http://twitter.com/brandcolorsnet)
+<hr>
+
+Follow [@brandcolorsnet](http://twitter.com/brandcolorsnet) on Twitter.
