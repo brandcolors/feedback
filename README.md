@@ -1,9 +1,5 @@
-# BrandColors Feedback
+This is the place to suggest color additions or updates, report bugs, or pitch ideas for [BrandColors](http://brandcolors.net/). Create an issue and we'll talk.
 
-If you wish to suggest a new brand, report a bug, or pitch a new feature idea for [BrandColors](http://brandcolors.net/), this is the place to do so. Please create an issue and I'll get back to you as soon as possible.
+If you'd rather contact me privately or you have no idea how GitHub issues work, you can email me: <galen@galengidman.com>
 
-If for whatever reason you wish to contact me privately or have no idea how to create a GitHub issue, I may also be emailed at <galen@galengidman.com>.
-
-Thanks.
-
-— Galen
+[@brandcolorsnet](http://twitter.com/brandcolorsnet)
