@@ -4,9 +4,9 @@ If you'd rather contact me privately or you have no idea how GitHub issues work,
 
 <hr>
 
-## How to find colors
+### How to find colors
 
-A good place to look for brand's colors is in their logos. Sometimes you'll get lucky and stuble across a handy brand or identity guidelines document that lists them all along with their hex value, but usually your best bet is just pull the colors right out of the logos.
+A good place to look for brand's colors is in their logos. Sometimes you'll get lucky and stuble across a handy brand or identity guidelines document that lists them all along with their HEX value, but usually your best bet is just pull the colors right out of the logos.
 
 A few things to keep in mind:
 
