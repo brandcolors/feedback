@@ -10,7 +10,7 @@ A good place to look for brand's colors is in their logos. Sometimes you'll get 
 
 A few things to keep in mind:
 
-- The higher resolution the logo the better. They're usually less distortred which can sometimes affect color.
+- The higher resolution the logo the better. They're usually less distorted which can sometimes affect color.
 - You can often find high resolution logos on company's Press or About pages. Poke around a bit, they're usually there.
 - Try to pick the color out of a flat section of the logo — gradients are bad.
 - Sometimes color picker apps are slightly incorrect. Instead, open the image in a photo editor like Photoshop and use that color picker.
