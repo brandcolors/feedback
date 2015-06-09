@@ -19,4 +19,4 @@ A few things to keep in mind:
 
 <hr>
 
-Follow [@brandcolorsnet](http://twitter.com/brandcolorsnet) on Twitter.
+Follow [@brandcolors](http://twitter.com/brandcolors) on Twitter.
