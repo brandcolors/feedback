@@ -1,7 +1,5 @@
 This is the place to suggest color additions or updates, report bugs, or pitch ideas for [BrandColors](https://brandcolors.net/). [Create an issue](https://github.com/brandcolors/feedback/issues/new) and we'll talk.
 
-If you'd rather contact me privately or don't know how to use GitHub, you can email me: <galen@galengidman.com>
-
 ## How to find colors
 
 I prefer to source colors from official documentation created by  brands themselves — identity guidelines, brand resource pages, etc. If you're looking for a brand colors, some great search terms are:
@@ -24,4 +22,4 @@ A few additional notes:
 
 <hr>
 
-Follow [@brandcolors](https://twitter.com/brandcolors) and [@galengidman](https://twitter.com/galengidman) on Twitter.
+Follow [@brandcolors](https://twitter.com/brandcolors) and [@designbombs](https://twitter.com/designbombs) on Twitter.
